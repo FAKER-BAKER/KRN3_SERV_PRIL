@@ -2,9 +2,6 @@
 
 
 
-![WinterWinterIsComingGIF](https://github.com/user-attachments/assets/4ea22196-cb05-4031-b7d4-4ba99f4bef34)
-
-
 
 ## Установка зависимостей
 
